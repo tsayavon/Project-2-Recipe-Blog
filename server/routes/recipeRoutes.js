@@ -3,8 +3,21 @@ const router = express.Router();
 const recipeController = require('../controllers/recipeController');
 
 /**
- * App Route
+ * App Routes
  */
 router.get('/', recipeController.homepage);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 module.exports = router;
