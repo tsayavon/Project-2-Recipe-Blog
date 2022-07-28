@@ -22,4 +22,4 @@ As a user:
 - Heroku
 
 # Wireframe Sketch
-![Wireframe](./images/Project2wireframe.png)
+![Wireframe](public/img/Project2wireframe.png)
