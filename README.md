@@ -19,6 +19,8 @@ As a user:
 - Bootstrap
 - NPM Dependencies
 - JavaScript
+- Blobmaker
+- Photoshop
 - Heroku
 
 # Wireframe Sketch
