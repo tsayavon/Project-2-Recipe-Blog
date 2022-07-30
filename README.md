@@ -17,6 +17,7 @@ As a user:
 - EJS
 - Mongoose
 - Bootstrap
+- Breadcrum
 - NPM Dependencies
 - JavaScript
 - Blobmaker
