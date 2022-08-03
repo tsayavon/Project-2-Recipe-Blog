@@ -26,3 +26,10 @@ As a user:
 
 # Wireframe Sketch
 ![Wireframe](public/img/Project2wireframe.png)
+
+# Future Enhancements
+- Sign up for a free account
+- Account Login
+- Favorite recipes
+- Edit own submitted recipes
+- Delete own submited recipes

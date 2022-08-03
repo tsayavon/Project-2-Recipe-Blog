@@ -175,7 +175,7 @@ exports.submitRecipeOnPost = async (req, res) => {
 
 
 
-// Delete Recipe
+//Delete Recipe
 // async function deleteRecipe(){
 //   try {
 //     await Recipe.deleteOne({ name: 'New Recipe From Form' });
@@ -186,7 +186,7 @@ exports.submitRecipeOnPost = async (req, res) => {
 // deleteRecipe();
 
 
-// Update Recipe
+//Update Recipe
 // async function updateRecipe(){
 //   try {
 //     const res = await Recipe.updateOne({ name: 'New Recipe' }, { name: 'New Recipe Updated' });
