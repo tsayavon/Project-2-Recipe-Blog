@@ -1,4 +1,4 @@
-# Project 2 : Recipe Blog
+# Project 2 : Homemade Cooking Recipe Blog
 I decided to make a Recipe Blog that allows you to search through different categories of recipes and even submit some recipes yourself. 
 [Cick to run](https://recipe-blog-tsayavon.herokuapp.com/)
 
